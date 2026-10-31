@@ -1,0 +1,32 @@
+
+C++ Programming Notes
+
+1. Introduction to C++
+C++ is a general-purpose programming language. It supports procedural programming and object-oriented programming.
+
+2. Variables and Data Types
+Variables store data values. Common data types in C++ include int, float, double, char, bool, and string.
+
+3. Loops
+C++ supports for loops, while loops, and do-while loops. Loops are used to execute a block of code repeatedly.
+
+4. Functions
+A function is a reusable block of code that performs a specific task. Functions can accept parameters and return values.
+
+5. Object-Oriented Programming
+C++ supports classes and objects. A class is a blueprint for creating objects. An object is an instance of a class.
+
+6. Inheritance
+Inheritance allows a class to acquire properties and methods from another class.
+
+7. Polymorphism
+Polymorphism allows the same interface to represent different behaviours. In C++, it can be achieved through function overloading and virtual functions.
+
+8. Encapsulation
+Encapsulation combines data and methods inside a class and controls access using public, private, and protected access specifiers.
+
+9. Pointers
+A pointer stores the memory address of another variable.
+
+10. Constructors
+A constructor is a special class member function that is called when an object is created. It is used to initialize objects.
